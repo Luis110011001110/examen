@@ -90,3 +90,23 @@ For open source projects, say how it is licensed.
 
 ## Project status
 If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+
+Backend
+Crear entorno virtual
+python3 -m venv env
+  ó
+python -m venv env
+
+
+instalar fastapi
+pip install "fastapi[all]"
+ó
+pip3 install "fastapi[all]"
+
+correr proyecto
+uvicorn main:app --reload
+
+instalar librerias nesesarias
+pip install -r requirements.txt
+ó
+pip3 install -r requirements.txt
