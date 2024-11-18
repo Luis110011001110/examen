@@ -1,0 +1,21 @@
+.footer {
+  position: fixed; /* Fija el footer en la parte inferior */
+  bottom: 0;
+  left: 0;
+  width: 100%; /* Asegura que ocupe todo el ancho */
+  background-color: #333;  /* Color de fondo */
+  color: white; /* Color del texto */
+  text-align: center; /* Centrar el texto */
+  padding: 10px 0; /* Espaciado vertical */
+  z-index: 1000; /* Asegura que esté encima de otros elementos */
+}
+
+.footer a {
+  color: #ffffff; /* Color de los enlaces */
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+.footer a:hover {
+  text-decoration: underline;
+}

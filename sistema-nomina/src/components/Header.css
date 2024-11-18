@@ -1,0 +1,39 @@
+.header {
+  position: fixed;       /* Hace que el header permanezca en la parte superior */
+  top: 0;                /* Se coloca en la parte superior */
+  left: 0;               /* Se extiende desde el borde izquierdo */
+  width: 100%;           /* El header ocupa todo el ancho de la pantalla */
+  background-color: #333;  /* Color de fondo del header */
+  color: white;          /* Color del texto */
+  padding: 10px 20px;    /* Espaciado interno del header */
+  z-index: 1000;         /* Asegura que el header esté por encima de otros elementos */
+}
+
+/* Estilo para el logo o el contenido dentro del header */
+.header .logo {
+  font-size: 12px;       /* Tamaño de la fuente del logo */
+  font-weight: bold;     /* Negrita para el logo */
+}
+
+/* Estilo para la navegación en el header */
+.header nav ul {
+  list-style: none;      /* Elimina los puntos de lista */
+  display: flex;         /* Muestra los elementos de navegación en línea */
+  justify-content: flex-end; /* Alinea los enlaces a la derecha */
+  margin: 0;
+  padding: 0;
+}
+
+.header nav ul li {
+  margin-left: 20px;     /* Espacio entre los enlaces */
+}
+
+.header nav ul li a {
+  text-decoration: none; /* Elimina el subrayado de los enlaces */
+  color: white;          /* Color de los enlaces */
+  font-size: 18px;       /* Tamaño de la fuente */
+}
+
+.header nav ul li a:hover {
+  color: #f0f0f0;        /* Color del enlace al pasar el ratón */
+}

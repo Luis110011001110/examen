@@ -1,0 +1,31 @@
+.home-container {
+    display: flex; /* Alinear el Sidebar y el contenido principal */
+    min-height: 100vh; /* Asegura que ocupe toda la altura de la pantalla */
+  }
+  
+  .main-content {
+    flex-grow: 1; /* El contenido principal ocupa el espacio restante */
+    margin-left: 250px; /* Ancho del Sidebar */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; /* Distribuir contenido y footer */
+    padding: 20px;
+  }
+  
+  .home-content {
+    flex-grow: 1; /* Para mantener el contenido separado del footer */
+  }
+  
+  button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }

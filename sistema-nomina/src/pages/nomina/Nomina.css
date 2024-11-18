@@ -1,0 +1,11 @@
+/* Nomina.css */
+.charts-container {
+    display: flex;
+    justify-content: space-between; /* Espacio entre los gráficos */
+    align-items: flex-start; /* Alinea los gráficos a la misma altura */
+    gap: 20px; /* Espacio entre los gráficos */
+  }
+  
+  .chart-left, .chart-right {
+    width: 48%; /* Para que ambos gráficos ocupen casi la mitad del ancho */
+  }
