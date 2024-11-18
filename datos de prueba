@@ -1,0 +1,108 @@
+{
+  "grupo": "22223-3151250-PTPA18-201-ACAC02",
+  "fecha": "2023-06-19",
+  "hora": "10:11:30",
+  "registro": "2023-06-19 10:26:26",
+  "alumnos": [
+    {
+      "matricula": "211060278-2",
+      "comentario": "",
+      "evento": 1
+    },
+    {
+      "matricula": "212240106-6",
+      "comentario": "-5",
+      "evento": 3
+    },
+    {
+      "matricula": "221250001-7",
+      "comentario": "-5",
+      "evento": 3
+    },
+    {
+      "matricula": "221250023-1",
+      "comentario": "-5",
+      "evento": 3
+    },
+    {
+      "matricula": "221250024-9",
+      "comentario": "",
+      "evento": 1
+    },
+    {
+      "matricula": "221250050-4",
+      "comentario": "",
+      "evento": 1
+    },
+    {
+      "matricula": "221250103-1",
+      "comentario": "",
+      "evento": 1
+    },
+    {
+      "matricula": "221250113-0",
+      "comentario": "",
+      "evento": 1
+    },
+    {
+      "matricula": "221250134-6",
+      "comentario": "",
+      "evento": 1
+    },
+    {
+      "matricula": "221250143-7",
+      "comentario": "",
+      "evento": 1
+    },
+    {
+      "matricula": "221250153-6",
+      "comentario": "",
+      "evento": 1
+    },
+    {
+      "matricula": "221250207-0",
+      "comentario": "",
+      "evento": 1
+    },
+    {
+      "matricula": "221250225-2",
+      "comentario": "",
+      "evento": 1
+    },
+    {
+      "matricula": "221250235-1",
+      "comentario": "",
+      "evento": 1
+    },
+    {
+      "matricula": "221250240-1",
+      "comentario": "",
+      "evento": 1
+    },
+    {
+      "matricula": "221250247-6",
+      "comentario": "",
+      "evento": 1
+    },
+    {
+      "matricula": "221250260-9",
+      "comentario": "",
+      "evento": 1
+    },
+    {
+      "matricula": "221250262-5",
+      "comentario": "",
+      "evento": 1
+    },
+    {
+      "matricula": "222670219-5",
+      "comentario": "",
+      "evento": 1
+    },
+    {
+      "matricula": "222670304-5",
+      "comentario": "",
+      "evento": 1
+    }
+  ]
+}
